@@ -156,7 +156,7 @@
     "log4js": "^6.3.0",
     "ms-rest": "^2.5.4",
     "ms-rest-azure": "^3.0.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "node-fs-extra": "^0.8.2",
     "opn": "^6.0.0",
     "p-retry": "^4.2.0",
